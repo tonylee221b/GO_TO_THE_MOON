@@ -2,6 +2,10 @@
 
 const SHA256 = require('crypto-js/sha256');
 
+class Patient_Info {
+    
+}
+
 class Block {
     // index -> Where the block sits on the chain
     // timestamp -> when the block was created
