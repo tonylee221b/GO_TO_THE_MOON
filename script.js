@@ -1,9 +1,22 @@
-// Here we go!
-
 const SHA256 = require('crypto-js/sha256');
 
 class Patient_Info {
-    constructor(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country){
+    constructor(){
+        this.name = '0';
+        this.age = 0;
+        this.sex = '0';
+        this.dateOfBirth = 0;
+        this.height = 0;
+        this.weight = 0;
+        this.bloodType = '0';
+        this.address = '0';
+        this.phoneNum = 0;
+        this.country = '0';
+    }
+
+    createPatient(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country) {
+        // return new Patient_Info(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country);
+        // let T_patient = new Patient_Info(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country);
         this.name = name;
         this.age = age;
         this.sex = sex;
@@ -14,20 +27,25 @@ class Patient_Info {
         this.address = address;
         this.phoneNum = phoneNum;
         this.country = country;
-        return this;
-    }
-
-    createPatient(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country) {
-        // return new Patient_Info(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country);
-        let T_patient = new Patient_Info(name, age, sex, dateOfBirth, height, weight, bloodType, address, phoneNum, country);
-        alert(T_patient);
-
-        // Testing
-        let name = document.getElementById('name').value;
-        alert(name);
-
+        
     }
 }
+
+    let Patient1 = new Patient_Info();
+    Patient1.createPatient(
+      document.getElementById("name").value,
+      document.getElementById("age").value,
+      document.getElementById("sex").value,
+      document.getElementById("dateOfBirth").value,
+      document.getElementById("height").value,
+      document.getElementById("weight").value,
+      document.getElementById("bloodType").value,
+      document.getElementById("address").value,
+      document.getElementById("phoneNum").value,
+      document.getElementById("country").value
+    );
+
+
 
 class Block {
     // index -> Where the block sits on the chain
@@ -99,7 +117,11 @@ class Blockchain {
 
 let PatientConsent = new Blockchain();
 
+console.log("Mining block 1...");
+PatientConsent.addBlock(new Block(1, "02/03/2021", {amount: 4}));
 
+console.log("Mining block 2...");
+PatientConsent.addBlock(new Block(2, "02/03/2021", {amount: 8}));
 
 /* html
 가입하는 단계
