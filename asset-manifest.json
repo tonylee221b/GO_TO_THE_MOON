@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tonylee221b/GO_TO_THE_MOON.git/static/css/main.384466b7.chunk.css",
+    "main.js": "/tonylee221b/GO_TO_THE_MOON.git/static/js/main.8f86be5e.chunk.js",
+    "main.js.map": "/tonylee221b/GO_TO_THE_MOON.git/static/js/main.8f86be5e.chunk.js.map",
+    "runtime-main.js": "/tonylee221b/GO_TO_THE_MOON.git/static/js/runtime-main.b6be233b.js",
+    "runtime-main.js.map": "/tonylee221b/GO_TO_THE_MOON.git/static/js/runtime-main.b6be233b.js.map",
+    "static/js/2.dd71b006.chunk.js": "/tonylee221b/GO_TO_THE_MOON.git/static/js/2.dd71b006.chunk.js",
+    "static/js/2.dd71b006.chunk.js.map": "/tonylee221b/GO_TO_THE_MOON.git/static/js/2.dd71b006.chunk.js.map",
+    "static/js/3.5d88eb90.chunk.js": "/tonylee221b/GO_TO_THE_MOON.git/static/js/3.5d88eb90.chunk.js",
+    "static/js/3.5d88eb90.chunk.js.map": "/tonylee221b/GO_TO_THE_MOON.git/static/js/3.5d88eb90.chunk.js.map",
+    "index.html": "/tonylee221b/GO_TO_THE_MOON.git/index.html",
+    "static/css/main.384466b7.chunk.css.map": "/tonylee221b/GO_TO_THE_MOON.git/static/css/main.384466b7.chunk.css.map",
+    "static/js/2.dd71b006.chunk.js.LICENSE.txt": "/tonylee221b/GO_TO_THE_MOON.git/static/js/2.dd71b006.chunk.js.LICENSE.txt",
+    "static/media/GTM_logo.dbb310f8.png": "/tonylee221b/GO_TO_THE_MOON.git/static/media/GTM_logo.dbb310f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6be233b.js",
+    "static/js/2.dd71b006.chunk.js",
+    "static/css/main.384466b7.chunk.css",
+    "static/js/main.8f86be5e.chunk.js"
+  ]
+}
