@@ -4,7 +4,7 @@
 ### Hackathon 2021 Winter
 
 ## What we have done
-We attempted to create a website that manages patients' medical data using blockchain technology. Although we didn't complete it, we were able to complete the various things we aimed for.
+Using React, we have attempted to create a website that manages patients' medical data based on blockchain technology. Although we didn't complete it, we were able to complete the various things we aimed for.
 
 - First, when a patient joins our website, the user has a block and gets the Hash value accordingly.
 
