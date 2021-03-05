@@ -268,7 +268,7 @@ input[type="checkbox"]:checked + label:before {
   display: block;
   position: absolute;
   top: 55%;
-  left: 610px;
+  left: 37%;
   width: auto;
   height: auto;
   margin-top: auto;
@@ -322,4 +322,13 @@ input[type="checkbox"]:checked + label:before {
 
 .log_head {
   color: #335c67;
+}
+
+.footer {
+position:fixed;
+  left:0px;
+  bottom:0px;
+  height:60px;
+  width:100%;
+  color: black;
 }

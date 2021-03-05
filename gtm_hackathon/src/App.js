@@ -453,6 +453,8 @@ class App extends Component {
           <div className="main">{this.getContentComponent()}</div>
           <br></br>
         </div>
+
+        <footer className="footer">&copy; 2021. &nbsp;ALL RIGHTS RESERVED &nbsp;&nbsp; GO TO THE MOON</footer>
       </div>
     );
   }
