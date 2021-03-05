@@ -14,4 +14,7 @@ Using React, we have attempted to create a website that manages patients' medica
 
 - Finally, whenever patients sign up or modify our personal information, disclosure range, we create a hash value and implement it to show the timestamp, previous hash value, and current hash value when the customer finally submits it.
 
-- There is something we have not implemented in time, which is showing the list of patients' all hash values. We will try to finish it personally later.
+- Finally, we implemented to show the log history of continuously stacked hash values while patients change their personal data or store new data. Our system shows the date the hash value was stored and the hash value of the day, allowing the patient to check his or her own records. Furthermore, using the hash value, patients can use it with our planned solution of the insurance company.
+
+## What we have learned in this Hackathon
+We lacked a lot of knowledge about blockchain, but we were able to get a lot of information about blockchain through this Hackathon. And once again, we thought about the importance of personal data and we learned that if we use blockchain, we can manage that important data more safely. Our skills were still lacking, so we couldn't proceed as much as we aimed, but it was so meaningful to participate in this Hackathon for the first time among classmates. We plan to continue making parts that are not completed separately.
