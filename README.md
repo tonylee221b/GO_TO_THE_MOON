@@ -2,6 +2,8 @@
 
 ![GTM-logo-white](https://user-images.githubusercontent.com/47313362/110156626-36fc7780-7db5-11eb-8d90-396030328db9.png)
 
+## This link is [Website Simulation Video](https://github.com/tonylee221b/GO_TO_THE_MOON/issues/2#issue-823327600) !!
+
 ### This is the prototype of GTM(Go to the Moon)'s Blockchain-based Patient Consent application.
 > Hackathon 2021 Winter
 
@@ -44,6 +46,3 @@ To use this algorithm, add the code below to the top of the js folder you're try
 ```
 import SHA256 from '../../node_modules/crypto-js/sha256';
 ```
-
-[Website Simulation Video](https://github.com/tonylee221b/GO_TO_THE_MOON/issues/2#issue-823327600)
-
