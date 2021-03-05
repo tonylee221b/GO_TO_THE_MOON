@@ -1,4 +1,4 @@
- # GO_TO_THE_MOON
+ # GO_TO_THE_MOON 🚀
 
 ## This is the prototype of GTM(Go to the Moon)'s Blockchain-based Patient Consent application.
 ### Hackathon 2021 Winter
