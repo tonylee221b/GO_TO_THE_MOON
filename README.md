@@ -41,3 +41,6 @@ To use this algorithm, add the code below to the top of the js folder you're try
 ```
 import SHA256 from '../../node_modules/crypto-js/sha256';
 ```
+
+<video width="800px" height="600px" src="https://user-images.githubusercontent.com/47313362/110155207-4d093880-7db3-11eb-95fd-b2067415ca02.mov"
+   autoplay loop />
