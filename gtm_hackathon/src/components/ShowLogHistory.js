@@ -19,7 +19,6 @@ class ShowLogHistory extends Component {
       </div>
     );
   }
-
 }
 
 export default ShowLogHistory;

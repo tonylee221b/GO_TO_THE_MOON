@@ -4,7 +4,7 @@ import Index from './components/Index';
 import ContentCreate from './components/ContentCreate';
 import Content from './components/Content';
 import Display from './components/Display';
-import DisplayRange from './components/DisplayRange'
+import DisplayRange from './components/DisplayRange';
 import ContentCreateId from './components/ContentCreateId';
 import ContentCreateRange from './components/ContentCreateRange';
 import Block from './components/Block';
@@ -86,8 +86,8 @@ class App extends Component {
     while (i < this.state.chain.length) {
       let obj = {
         time: '',
-        hash: ''
-      }
+        hash: '',
+      };
       _value = Object.values(this.state.chain[i]);
       obj.time = _value[1];
       obj.hash = _value[4];
