@@ -18,3 +18,26 @@ Using React, we have attempted to create a website that manages patients' medica
 
 ## What we have learned in this Hackathon
 We lacked a lot of knowledge about blockchain, but we were able to get a lot of information about blockchain through this Hackathon. And once again, we thought about the importance of personal data and we learned that if we use blockchain, we can manage that important data more safely. Our skills were still lacking, so we couldn't proceed as much as we aimed, but it was so meaningful to participate in this Hackathon for the first time among classmates. We plan to continue making parts that are not completed separately.
+
+==============================================================================================
+# Getting Started with Create React App
+
+##  This project was bootstrapped
+We created a react environment using the npx command. 
+```
+npx create-react-app {your folder name}
+```
+You can see more details on this link [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+## The module we added to use blockchain
+In the project directory, you need to install
+### `npm install --save crypto-js`
+
+To use `SHA256`(Secure Hash Algorithm) which returns a 64-digit string consisting of 256 bits.
+
+To use this algorithm, add the code below to the top of the js folder you're trying to write.
+```
+import SHA256 from '../../node_modules/crypto-js/sha256';
+```
