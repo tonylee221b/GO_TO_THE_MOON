@@ -2,8 +2,8 @@
 
 ![GTM-logo-white](https://user-images.githubusercontent.com/47313362/110156626-36fc7780-7db5-11eb-8d90-396030328db9.png)
 
-> This is the prototype of GTM(Go to the Moon)'s Blockchain-based Patient Consent application.
-### Hackathon 2021 Winter
+### This is the prototype of GTM(Go to the Moon)'s Blockchain-based Patient Consent application.
+> Hackathon 2021 Winter
 
 ## What we have done
 Using React, we have attempted to create a website that manages patients' medical data based on blockchain technology. Although we didn't complete it, we were able to complete the various things we aimed for.
@@ -21,7 +21,8 @@ Using React, we have attempted to create a website that manages patients' medica
 ## What we have learned in this Hackathon
 We lacked a lot of knowledge about blockchain, but we were able to get a lot of information about blockchain through this Hackathon. And once again, we thought about the importance of personal data and we learned that if we use blockchain, we can manage that important data more safely. Our skills were still lacking, so we couldn't proceed as much as we aimed, but it was so meaningful to participate in this Hackathon for the first time among classmates. We plan to continue making parts that are not completed separately.
 
-==============================================================================================
+<hr />
+
 # Getting Started with Create React App
 
 ##  This project was bootstrapped
