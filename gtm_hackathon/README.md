@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
-**** This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ****
+## **** This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ****
+
+## The module we added to use blockchain
+In the project directory, you need to install
+### `npm install --save crypto-js`
+
+To use `SHA256`(Secure Hash Algorithm) which returns a 64-digit string consisting of 256 bits.
+
+To use this algorithm, add the code below to the top of the js folder you're trying to write.
+```
+import SHA256 from '../../node_modules/crypto-js/sha256';
+```
 
 ## Available Scripts
 
