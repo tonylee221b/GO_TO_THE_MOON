@@ -29,7 +29,7 @@ class App extends Component {
         { id: 1, title: 'Join the website' },
         { id: 2, title: 'Patient Information', desc: 'Please enter your personal information' },
         { id: 3, title: 'Accessible Range', desc: 'Please select which information you want to share' },
-        { id: 4, title: 'Block Chain', desc: 'Your Block Chain' },
+        { id: 4, title: 'Blockchain Log', desc: 'The history of your Hash values' },
       ],
       information: [],
       idInfo: [],

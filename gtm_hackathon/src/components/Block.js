@@ -59,8 +59,8 @@ class Block extends Component {
           <strong>
             <em>Blockchained Hash</em>
           </strong>{' '}
-          is created! <br />
-          Check your Hash to click the button below !!!
+          is almost created! <br />
+          <b>Click the button below</b> to make sure to <strong>create and check your Hash value !!!</strong>
           <br />
           ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
         </div>

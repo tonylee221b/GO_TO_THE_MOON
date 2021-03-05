@@ -319,3 +319,7 @@ input[type="checkbox"]:checked + label:before {
   font-size: 18px;
   color: #bc6c25;
 }
+
+.log_head {
+  color: #335c67;
+}

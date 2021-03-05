@@ -15,7 +15,11 @@ class ShowLogHistory extends Component {
   render () {
     return (
       <div>
-        {this.getHistory()}
+        <div className="log_head">
+          <h1>The History Of Your Hash Log</h1>
+        </div>
+
+        <div>{this.getHistory()}</div>
       </div>
     );
   }
